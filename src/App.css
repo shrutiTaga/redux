@@ -1,0 +1,23 @@
+.card-header {
+  background-color: rgb(11, 11, 147);
+
+  color: white;
+}
+
+.card {
+  text-align: center;
+}
+
+.card-body {
+  background-color: rgb(78, 15, 167);
+  color: white;
+}
+
+.card-footer {
+  background-color: rgb(102, 0, 255);
+  color: rgb(255, 255, 255);
+}
+
+.nav-link {
+  cursor: pointer;
+}
